@@ -30,7 +30,8 @@ Output Display: A display interface connected to the microcontroller provides re
 
 To set up the Color-Based Pill Sorting System, follow these steps:
 
-1. Clone this repository: git clone https://github.com/your-username/repository.git
+1. Clone this repository: 
+`git clone https://github.com/HenriqueOliveira18/Selecting-pills-with-8051.git `
 2. Connect the hardware components as described in the documentation.
 3. Upload the microcontroller code to the 8051 microcontroller.
 4. Run the system and monitor the output on the connected display interface.
